@@ -1,16 +1,13 @@
 # DAI Mission — Group A: The Gender Pay Gap at Work
 
-Group: Emre Isildar, Mohammadali Vahabi
-Course: Data and AI in Economics — TU Dortmund
+**Group:** Emre Isildar, Mohammadali Vahabi
+**Course:** Data and AI in Economics — TU Dortmund
 
-### Contents
-
-
-group_a_proposal.ipynb — final notebook (fully executed)
-requirements.txt — required Python packages
-group_a_presentation_slides.pdf — presentation slides
-Glassdoor Gender Pay Gap.csv — dataset (Kaggle, CC0)
-
+## Contents
+- `group_a_proposal.ipynb` — final notebook (fully executed)
+- `requirements.txt` — required Python packages
+- `group_a_presentation_slides.pdf` — presentation slides
+- `Glassdoor Gender Pay Gap.csv` — dataset (Kaggle, CC0)
 
 ### How to run
 
